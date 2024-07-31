@@ -39,4 +39,4 @@ async def massdm(ctx):
         
 
 
-client.run('') #Input your discord bot token here
+client.run('MTI2ODAwNjQyNTUwNjg3MzQ0OA.G5NhTQ.sOm0HtDK3bwz3tsC07SK1u654qZI-pdRwzToVo') #Input your discord bot token here
